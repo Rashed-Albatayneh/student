@@ -20,6 +20,7 @@ public class Student1Tuesday {
       for(int i = 0;i<studentList.length;i++){
         System.out.println(studentList[i].getSname());
       }
+      //hello this is a comment
       
       
       
