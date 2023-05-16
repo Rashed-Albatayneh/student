@@ -21,6 +21,7 @@ public class Student1Tuesday {
         System.out.println(studentList[i].getSname());
       }
       //hello this is a comment
+      // hello this is a comment for rool back
       
       
       
