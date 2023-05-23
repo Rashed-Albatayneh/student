@@ -8,6 +8,7 @@ package student1.tuesday;
  *
  * @author miskm
  */
+// hello this been edited on github
 class Student {
        private String sname;
     private String sID;
