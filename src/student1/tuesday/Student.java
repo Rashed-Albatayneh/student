@@ -9,6 +9,7 @@ package student1.tuesday;
  * @author miskm
  */
 // hello this been edited on github
+// comment 2 added
 class Student {
        private String sname;
     private String sID;
